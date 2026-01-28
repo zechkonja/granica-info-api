@@ -1,0 +1,18 @@
+{
+  "bajakovo-batrovci": {
+    "status": "moderate",
+    "wait_time": "25-40 min",
+    "density": 65,
+    "queue_length": "2.5 km",
+    "last_updated": "12:30",
+    "message": "Increased traffic due to weekend travel"
+  },
+  "belgrade-ljubljana": {
+    "status": "light",
+    "wait_time": "10-15 min",
+    "density": 35,
+    "queue_length": "< 1 km",
+    "last_updated": "12:35",
+    "message": ""
+  }
+}
