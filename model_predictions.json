@@ -1,0 +1,185 @@
+{  
+  "bajakovo-batrovci_morning_rush": {  
+    "estimated_wait": "45-60 min",  
+    "traffic_level": "Heavy",  
+    "best_time": "14:00-16:00",  
+    "confidence_score": 89,  
+    "car_count": 28,  
+    "early_car_count": 12,  
+    "later_car_count": 18  
+  },  
+  "bajakovo-batrovci_midday": {  
+    "estimated_wait": "20-35 min",  
+    "traffic_level": "Moderate",  
+    "best_time": "14:00-16:00",  
+    "confidence_score": 87,  
+    "car_count": 15,  
+    "early_car_count": 8,  
+    "later_car_count": 12  
+  },  
+  "bajakovo-batrovci_afternoon": {  
+    "estimated_wait": "15-25 min",  
+    "traffic_level": "Light",  
+    "best_time": "18:00-20:00",  
+    "confidence_score": 85,  
+    "car_count": 10,  
+    "early_car_count": 6,  
+    "later_car_count": 8  
+  },  
+  "bajakovo-batrovci_evening_rush": {  
+    "estimated_wait": "50-70 min",  
+    "traffic_level": "Heavy",  
+    "best_time": "Early morning (6:00-8:00)",  
+    "confidence_score": 91,  
+    "car_count": 32,  
+    "early_car_count": 15,  
+    "later_car_count": 20  
+  },  
+  "bajakovo-batrovci_night": {  
+    "estimated_wait": "5-10 min",  
+    "traffic_level": "Free",  
+    "best_time": "Night time is optimal",  
+    "confidence_score": 95,  
+    "car_count": 3,  
+    "early_car_count": 2,  
+    "later_car_count": 4  
+  },  
+    
+  "batrovci-bajakovo_morning_rush": {  
+    "estimated_wait": "35-50 min",  
+    "traffic_level": "Moderate",  
+    "best_time": "13:00-15:00",  
+    "confidence_score": 86,  
+    "car_count": 22,  
+    "early_car_count": 10,  
+    "later_car_count": 15  
+  },  
+  "batrovci-bajakovo_midday": {  
+    "estimated_wait": "15-25 min",  
+    "traffic_level": "Light",  
+    "best_time": "Continue at this time",  
+    "confidence_score": 88,  
+    "car_count": 12,  
+    "early_car_count": 7,  
+    "later_car_count": 10  
+  },  
+  "batrovci-bajakovo_afternoon": {  
+    "estimated_wait": "12-20 min",  
+    "traffic_level": "Light",  
+    "best_time": "17:00-19:00",  
+    "confidence_score": 87,  
+    "car_count": 9,  
+    "early_car_count": 5,  
+    "later_car_count": 7  
+  },  
+  "batrovci-bajakovo_evening_rush": {  
+    "estimated_wait": "40-55 min",  
+    "traffic_level": "Moderate",  
+    "best_time": "Early morning (6:00-8:00)",  
+    "confidence_score": 89,  
+    "car_count": 26,  
+    "early_car_count": 12,  
+    "later_car_count": 18  
+  },  
+  "batrovci-bajakovo_night": {  
+    "estimated_wait": "5-10 min",  
+    "traffic_level": "Free",  
+    "best_time": "Night time is optimal",  
+    "confidence_score": 96,  
+    "car_count": 3,  
+    "early_car_count": 2,  
+    "later_car_count": 3  
+  },  
+  
+  "tovarnik-sid_morning_rush": {  
+    "estimated_wait": "30-45 min",  
+    "traffic_level": "Moderate",  
+    "best_time": "14:00-16:00",  
+    "confidence_score": 84,  
+    "car_count": 20,  
+    "early_car_count": 10,  
+    "later_car_count": 15  
+  },  
+  "tovarnik-sid_midday": {  
+    "estimated_wait": "15-25 min",  
+    "traffic_level": "Light",  
+    "best_time": "Continue at this time",  
+    "confidence_score": 86,  
+    "car_count": 12,  
+    "early_car_count": 7,  
+    "later_car_count": 10  
+  },  
+  "tovarnik-sid_afternoon": {  
+    "estimated_wait": "10-20 min",  
+    "traffic_level": "Light",  
+    "best_time": "18:00-20:00",  
+    "confidence_score": 88,  
+    "car_count": 8,  
+    "early_car_count": 5,  
+    "later_car_count": 7  
+  },  
+  "tovarnik-sid_evening_rush": {  
+    "estimated_wait": "35-50 min",  
+    "traffic_level": "Moderate",  
+    "best_time": "Early morning (6:00-8:00)",  
+    "confidence_score": 87,  
+    "car_count": 24,  
+    "early_car_count": 12,  
+    "later_car_count": 18  
+  },  
+  "tovarnik-sid_night": {  
+    "estimated_wait": "5-10 min",  
+    "traffic_level": "Free",  
+    "best_time": "Night time is optimal",  
+    "confidence_score": 94,  
+    "car_count": 4,  
+    "early_car_count": 2,  
+    "later_car_count": 3  
+  },  
+  
+  "sid-tovarnik_morning_rush": {  
+    "estimated_wait": "28-40 min",  
+    "traffic_level": "Moderate",  
+    "best_time": "13:00-15:00",  
+    "confidence_score": 85,  
+    "car_count": 18,  
+    "early_car_count": 9,  
+    "later_car_count": 13  
+  },  
+  "sid-tovarnik_midday": {  
+    "estimated_wait": "12-20 min",  
+    "traffic_level": "Light",  
+    "best_time": "Continue at this time",  
+    "confidence_score": 87,  
+    "car_count": 10,  
+    "early_car_count": 6,  
+    "later_car_count": 8  
+  },  
+  "sid-tovarnik_afternoon": {  
+    "estimated_wait": "10-18 min",  
+    "traffic_level": "Light",  
+    "best_time": "17:00-19:00",  
+    "confidence_score": 89,  
+    "car_count": 7,  
+    "early_car_count": 4,  
+    "later_car_count": 6  
+  },  
+  "sid-tovarnik_evening_rush": {  
+    "estimated_wait": "32-45 min",  
+    "traffic_level": "Moderate",  
+    "best_time": "Early morning (6:00-8:00)",  
+    "confidence_score": 88,  
+    "car_count": 21,  
+    "early_car_count": 10,  
+    "later_car_count": 15  
+  },  
+  "sid-tovarnik_night": {  
+    "estimated_wait": "5-10 min",  
+    "traffic_level": "Free",  
+    "best_time": "Night time is optimal",  
+    "confidence_score": 95,  
+    "car_count": 3,  
+    "early_car_count": 2,  
+    "later_car_count": 3  
+  }  
+}  

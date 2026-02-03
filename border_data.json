@@ -1,18 +1,37 @@
-{
-  "bajakovo-batrovci": {
-    "status": "moderate",
-    "wait_time": "25-40 min",
-    "density": 65,
-    "queue_length": "2.5 km",
-    "last_updated": "12:30",
-    "message": "Increased traffic due to weekend travel"
-  },
-  "belgrade-ljubljana": {
-    "status": "light",
-    "wait_time": "10-15 min",
-    "density": 35,
-    "queue_length": "< 1 km",
-    "last_updated": "12:35",
-    "message": ""
-  }
-}
+{  
+  "bajakovo-batrovci": {  
+    "status": "moderate",  
+    "wait_time": "25-40 min",  
+    "car_count": 18,  
+    "last_updated": "12:30",  
+    "message": "Increased traffic due to weekend travel"  
+  },  
+  "batrovci-bajakovo": {  
+    "status": "light",  
+    "wait_time": "15-25 min",  
+    "car_count": 12,  
+    "last_updated": "12:32",  
+    "message": "Normal weekday traffic from Serbia to Croatia"  
+  },  
+  "tovarnik-sid": {  
+    "status": "light",  
+    "wait_time": "10-15 min",  
+    "car_count": 7,  
+    "last_updated": "12:35",  
+    "message": ""  
+  },  
+  "sid-tovarnik": {  
+    "status": "light",  
+    "wait_time": "12-18 min",  
+    "car_count": 9,  
+    "last_updated": "12:37",  
+    "message": ""  
+  },  
+  "belgrade-ljubljana": {  
+    "status": "light",  
+    "wait_time": "10-15 min",  
+    "car_count": 6,  
+    "last_updated": "12:35",  
+    "message": ""  
+  }  
+}  
